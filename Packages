@@ -16,7 +16,6 @@ Package: com.caaqil.pubg
 Version: 0.12
 Section: Pubg
 Maintainer: Caaqil <dj.caaqil@gmail.com>
-Depends: firmware (>= 5.1.1),mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.caaqil.pubgmu_0.12-1+debug-1.deb
 Size: 130368
