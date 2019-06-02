@@ -1,0 +1,13 @@
+Package: com.repo.localiapstore
+Version: 1.4-2
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>= 5.1.1),mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.repo.localiapstore.deb
+Size: 71082
+MD5sum: 884fd696e260c2cdf0992b89a1c154f1
+Description: Waa simple app oo awood u leh inuu crack gareeyo games ka local store ka leh
+Name: LocalIAPStore
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://caaqil.tk/depictions/?p=com.repo.localiapstore
