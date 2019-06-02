@@ -13,7 +13,7 @@ Author: Caaqil <dj.caaqil@gmail.com>
 Depiction: https://caaqil.tk/depictions/?p=com.repo.localiapstore
 
 Package: /com.caaqil.pubgmu
-Version: 0.12
+Version: 0.12-1+debug-1
 Section: Pubg
 Maintainer: Caaqil <dj.caaqil@gmail.com>
 Architecture: iphoneos-arm
