@@ -10,15 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription> Waa simple app oo awood u leh inuu crack gareeyo games ka local store ka leh</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description> Waa simple app oo awood u leh inuu crack gareeyo games ka local store ka leh</description>
+		 
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
