@@ -15,15 +15,15 @@ Name: Pubg Hack 0.12
 Package: net.angelxwind.mobileterminal-applesdk
 Version: 521-karen-2
 Architecture: iphoneos-arm
-Maintainer: Karen/あけみ (angelXwind)
+Maintainer: Karen  あけみ 
 Installed-Size: 242.28
 Filename: ./debs/Tweaks/net.angelxwind.mobileterminal-applesdk_521-karen-2
-Size: 130368
+Size: 248098
 MD5sum: 03de7d8b876df27224d27afdba576581
 SHA1: 0bcb9da80809d7fb0483081288840808b8d1f7f0
 SHA256: 418380789d5bd43fb889721931388265f0259bbb002c746a7d54c9d16fe5278e
 Section: Tweaks
-Description: Waa pubg hack oo ku shaqeenaayo version ka 0.12 oo ios ah kaliya waxana laga rabaa inaad ciwan ku leedahay kaliya iosmods.com ama hada kasameeso
+Description: Waa Terminal ku suurta galinaayo inaad ku isticmaashid as a commend waa hadii aad taqaanid qaabka loo isticmaalo commend ga linux hadii aadan aqoonin fadlan ha dagsanin
 Name: MobileTerminal
 
 Package: Dropbear
