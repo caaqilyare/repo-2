@@ -1,7 +1,7 @@
 Package: Dropbear
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 441
 Filename: ./debs/Dropbear/dropbear_2.0_iphoneos-arm.deb
 Size: 441210
@@ -15,7 +15,7 @@ Name: Dropbear
 Package: Dropbear
 Version: 3.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 441
 Filename: ./debs/Dropbear/dropbear_3.0_iphoneos-arm.deb
 Size: 441148
@@ -29,7 +29,7 @@ Name: Dropbear
 Package: RevealLoader
 Version: 13.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 1900
 Depends: AppList
 Filename: ./debs/RevealLoader/revealloader_13.0_iphoneos-arm.deb
@@ -45,7 +45,7 @@ Name: RevealLoader
 Package: RevealLoader
 Version: 16.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 1900
 Depends: AppList
 Filename: ./debs/RevealLoader/revealloader_16.0_iphoneos-arm.deb
@@ -61,7 +61,7 @@ Name: RevealLoader
 Package: RevealLoaderFor11
 Version: 17.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 1900
 Depends: AppList
 Filename: ./debs/RevealLoaderFor11/revealloaderfor11_17.0_iphoneos-arm.deb
@@ -138,7 +138,7 @@ Name: DingTalkFucker
 Package: scp
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: anonymous
+Maintainer: Munasar Abuukar
 Installed-Size: 131
 Pre-Depends: dpkg (>= 1.14.25-8)
 Provides: scp
