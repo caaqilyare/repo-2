@@ -1,11 +1,13 @@
-Package: com.caaqil.pubg
+Package: com.arab-cydia.pubgmu
 Version: 0.12-1+debug-1
 Architecture: iphoneos-arm
 Maintainer: Munasar Abuukar
 Installed-Size: 130
-Filename: ./debs/Pubg/com.caaqil.pubg.deb
+Filename: ./debs/Pubg/com.arab-cydia.pubgmu_0.12-1+debug-1.deb
 Size: 130368
 MD5sum: c9d62f198ef2c9d4384629568df5a6f3
+SHA1: 39c3534a7a3d988af2710228c21b3aef20474d4c
+SHA256: 05eb6579086cd80ac93cb3efec23bb182f5cdf880b1f11727808553d0e21eb9e
 Section: Tweaks
 Description: Waa pubg hack oo ku shaqeenaayo version ka 0.12 oo ios ah kaliya waxana laga rabaa inaad ciwan ku leedahay kaliya iosmods.com ama hada kasameeso
 Name: Pubg Hack 0.12
