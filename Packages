@@ -3,7 +3,7 @@ Version: 0.12-1+debug-1
 Architecture: iphoneos-arm
 Maintainer: Munasar Abuukar
 Installed-Size: 130
-Filename: ./debs/Pubg/com.caaqil.pubgmu_0.12-1+debug-1.deb
+Filename: ./debs/Pubg/com.caaqil.pubg.deb
 Size: 130368
 MD5sum: c9d62f198ef2c9d4384629568df5a6f3
 SHA1: 39c3534a7a3d988af2710228c21b3aef20474d4c
